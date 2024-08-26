@@ -22,6 +22,7 @@ body::before {
   position: fixed;
   background: #040404 url("../img/chigo.jpg") top right no-repeat;
   background-size: cover;
+  background-position-y: -30pc;
   left: 0;
   right: 0;
   top: 0;
